@@ -1,2 +1,3 @@
-# helo-world\
-git clone https://github.com/MhankBarBar/whatsapp-bot.git
+# helo-world
+$ git clone https://github.com/MhankBarBar/whatsapp-bot.git
+
